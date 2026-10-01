@@ -1,2 +1,2 @@
-# key-showcase-mod
-Geode mod для телефонов 32-64 бита. Key showcase mod для Geometry Dash.
+Geode mod for 32-64-bit phones
+Key showcase mod for Geometry Dash.
